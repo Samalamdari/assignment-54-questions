@@ -10,7 +10,9 @@ public class blue2child1class {
 
         System.out.println("bye");
 
+// for test only
 
+        
     }
 
 
